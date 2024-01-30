@@ -34,18 +34,18 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/bird-species-classification.git
+git clone https://github.com/Harbringe/bird-classification/
 ```
 2. Navigate to the project directory:
 ```bash
-cd bird-species-classification
+cd bird-classification
 ```
 3. Download the dataset using the provided link and place it in the project directory.
 
 4. Open and run the "bird-classification.ipynb" notebook using Jupyter Notebook or Jupyter Lab:
 
 ```bash
-jupyter notebook bird-classification.ipynb
+jupyter notebook bird_classification.ipynb
 ```
 Follow the instructions in the notebook to execute each cell.
 
